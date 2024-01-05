@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sadegh Torabi's Homepage"
+title                    : "Sadegh Torabi"
 title_separator          : "-"
 name                     : &name "Sadegh Torabi"
 description              : &description "Assistant Professor and Research Scientist"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Sadegh Torabi"
-  avatar           : "profile.png"
+  avatar           : "Portrait_Sadegh-Torabi.jpeg"
   bio              : "Assistant Professor & Research Scientist at George Mason University"
   location         : "Fairfax, VA, USA"
-  employer         : "George Mason University"
+  employer         : #"George Mason University"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=sHaylg0AAAAJ&hl=en"
   email            : "storabi@gmu.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=sHaylg0AAAAJ&hl=en"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "www.linkedin.com/in/sadegh-torabi"
-  orcid            : "https://orcid.org/0000-0003-2811-3536"
+  orcid            : # "https://orcid.org/0000-0003-2811-3536"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
