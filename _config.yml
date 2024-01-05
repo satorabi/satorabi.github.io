@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sadegh Torabi"
+title                    : "Sadegh Torabi, PhD"
 title_separator          : "-"
 name                     : &name "Sadegh Torabi"
 description              : &description "Assistant Professor and Research Scientist"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sadegh Torabi"
-  avatar           : "Portrait_Sadegh-Torabi.jpeg"
+  avatar           : "Sadegh-Torabi.jpeg"
   bio              : "Assistant Professor & Research Scientist at George Mason University"
   location         : "Fairfax, VA, USA"
   employer         : #"George Mason University"
