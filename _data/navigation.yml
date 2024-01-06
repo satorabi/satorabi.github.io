@@ -3,18 +3,17 @@ main:
 # - title: "Research"
 #     url: /research/
 
-- title: "Teaching"
-    url: /teaching/
+  # - title: "Teaching"
+  #     url: /teaching/
 
   - title: "Publications"
     url: /publications/
 
-
   - title: "Talks"
     url: /talks/    
 
-  - title: "Contact"
-      url: /contact/
+  # - title: "Contact"
+  #     url: /contact/
 
 # - title: "About Me"
 #     url: /about/
