@@ -1,7 +1,7 @@
 ---
 title: "Link to Google Scholar Profile"
-# collection: publications
-permalink: '' #/publication/googlescholar
+collection: publications
+# permalink: /publication/
 excerpt: 'Click the link below to access my google scholar profile for the most recent publications'
 # date: 2015-10-01
 # venue: 'Journal 1'
