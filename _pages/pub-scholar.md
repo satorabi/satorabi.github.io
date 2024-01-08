@@ -8,7 +8,7 @@ author_profile: true
 Click on the following link for a complete list of publications:
 [Google Scholar Profile (Sadegh Torabi)](https://scholar.google.com/citations?user=sHaylg0AAAAJ&hl=en){:target="_blank" rel="noopener"}
 
-## Recent Publications
+## Select Publications
 * **[2024]**
     * Sarieddine, K., Sayed, M. A., **Torabi, S.**, Atallah, R., Jafarigiv, D., Assi, C., and Debbabi, M. (2024). [Uncovering Covert Attacks on EV Charging Infrastructure: How OCPP Backend Vulnerabilities Could Compromise Your System](https://www.researchgate.net/publication/377183224_Uncovering_Covert_Attacks_on_EV_Charging_Infrastructure_How_OCPP_Backend_Vulnerabilities_Could_Compromise_Your_System). **_ACM AsiaCCS_**.
     * Sarieddine, K., Sayed, M. A., **Torabi, S.**, Atallah, R., & Assi, C. (2024). [Edge-based detection and localization of adversarial oscillatory load attacks orchestrated by compromised EV charging stations](https://www.sciencedirect.com/science/article/pii/S0142061523007925). **_International Journal of Electrical Power & Energy Systems_**.
