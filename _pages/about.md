@@ -11,9 +11,9 @@ redirect_from:
 
 I am an Assistant Professor at [Department of Information Science and Technology (IST)](https://ist.gmu.edu/), [School of Computing](https://computing.gmu.edu/), at George Mason University. I am also a Research Fellow at the [Center for Secure Information Systems (CSIS)](https://csis.gmu.edu/pages/faculty.php#torabi) at George Mason University, Fairfax, VA, USA. 
 
-I am currently teaching a number of course while working on cybersecurity research projects with my students and collaborators. [Click here for more information](link)
+I am currently teaching a number of course while working on cybersecurity research projects with my students and collaborators.
 
-My research interests are in the areas of Internet measurements, network/systems security, usable security/privacy, and operational cyber security including the security of Internet of Things (IoT) and Cyber-Physical Systems (CPS). [Click here for more information](link)
+My research interests are in the areas of Internet measurements, network/systems security, usable security/privacy, and operational cyber security including the security of Internet of Things (IoT) and Cyber-Physical Systems (CPS).
 
 Prior Experiences
 ======
