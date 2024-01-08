@@ -1,14 +1,12 @@
 ---
 permalink: /pub-scholar/
-# title: "Publications"
+title: ""
 author_profile: true
 
 ---
-Google Scholar Profile (Sadegh Torabi)
-======
+## Google Scholar Profile (Sadegh Torabi)
 [Click for a list of most recent publications](https://scholar.google.com/citations?user=sHaylg0AAAAJ&hl=en){:target="_blank" rel="noopener"}
 
-Select Publications
-======
+## Select Publications
 * Paper 1
 * paper 2
