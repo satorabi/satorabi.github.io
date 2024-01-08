@@ -65,4 +65,4 @@ Click on the following link for a complete list of publications:
 * **[2016]**
     * **Torabi, S.**, and Beznosov, K. (2016). [Sharing Health Information on Facebook: Practices, Preferences, and Risk Perceptions of North American Users](https://www.usenix.org/system/files/conference/soups2016/soups2016-paper-torabi.pdf). **_USENIX SOUPS'16_**.
 * **[2013]**
-    * **Torabi, S.**, and Beznosov, K. (2013). [Privacy Aspects of Health Related Information Sharing in Online Social Networks](https://www.usenix.org/conference/healthtech13/workshop-program/presentation/torabi). **_USENIX HealthTech'13 Workshop_**.
+    * **Torabi, S.**, and Beznosov, K. (2013). [Privacy Aspects of Health Related Information Sharing in Online Social Networks](https://www.usenix.org/conference/healthtech13/workshop-program/presentation/torabi). **_USENIX HealthTech'13 Workshop_**. -->
