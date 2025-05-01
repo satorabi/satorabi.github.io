@@ -1,13 +1,16 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /pub-scholar/
-
   - title: "Research"
     url: /research/ 
 
   - title: "Teaching"
     url: /teaching-courses/ 
+
+  - title: "Services"
+    url: /services/
+
+  - title: "Publications"
+    url: /pub-scholar/
 
   - title: "Contact"
     url: /contact/    

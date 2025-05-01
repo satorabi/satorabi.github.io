@@ -12,6 +12,7 @@ author_profile: true
 <!-- My research interests are in the areas of Internet measurements, network/systems security, and operational cyber security including the security of Internet of Things (IoT) and Cyber-Physical Systems (CPS).  -->
 My research centers on the critical intersection of applied AI, cybersecurity, and the IoT/OT, recognizing the pervasive use of such devices in homes, industries, and critical infrastructures, where their security is paramount. Insecure IoT/OT can potentially enable large-scale cyberattacks, threatening the integrity of the Internet itself. Considering the IoT/OT-specific security challenges, my research aims to develop novel security mechanisms, protocols, and security assessment frameworks tailored to emerging IoT/OT environments.
  <!-- Through empirical studies, vulnerability assessments, and the creation of robust security solutions, my goal is to bolster the resilience of IoT ecosystems, ensuring secure operations, safeguarding sensitive data and the interconnected infrastructures, and mitigating large-scale cyberattacks.  -->
+ [View Publications and Google Scholar Profile](/pub-scholar/)
 
 ## Ongoing Research
 ### Securing the EV Charging Ecosystem ([NSF Award #2431617](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2431617&HistoricalAwards=false))
