@@ -11,9 +11,9 @@ redirect_from:
 
 I am an Assistant Professor at [Department of Information Science and Technology (IST)](https://ist.gmu.edu/), [School of Computing](https://computing.gmu.edu/), at George Mason University. I am also a Research Fellow at the [Center for Secure Information Systems (CSIS)](https://csis.gmu.edu/pages/faculty.php#torabi) at George Mason University, Fairfax, VA, USA. 
 
-I am currently teaching a number of course while working on cybersecurity research projects with my students and collaborators.
+My research lies at the intersection of applied AI and operational cyber security including the security of Internet of Things (IoT), Operational Technologies (OT), and Cyber-Physical Systems (CPS). My current research interests include: (1) Securing the EV charging ecosystem ([NSF Award #2431617](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2431617&HistoricalAwards=false)), (2) IoT/OT malware classification and family attribution, and (3) Adversarial AI/ML.
 
-My research interests are in the areas of Internet measurements, network/systems security, usable security/privacy, and operational cyber security including the security of Internet of Things (IoT) and Cyber-Physical Systems (CPS).
+<!-- I am also teaching a number of courses while working on cybersecurity research projects with my students and collaborators. -->
 
 Prior Experiences
 ======
@@ -23,8 +23,7 @@ I completed the Ph.D. degree in Information Systems Engineering from Concordia U
 
 Office Location & Contact Info
 ======
-* Office: Research Hall Building (Fairfax Campus), Fourth floor, Room# 419 
-* [Location on Google Maps](https://maps.app.goo.gl/7sPmMiaHg6zMKkKUA)
+* Office: Research Hall Building (Fairfax Campus), Fourth floor, Room# 419 - [Location on Google Maps](https://maps.app.goo.gl/7sPmMiaHg6zMKkKUA)
 * Email: storabi@gmu.edu
 * Phone: 703-993-7274
 * WebPage: https://ist.gmu.edu/profiles/storabi
