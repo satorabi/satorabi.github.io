@@ -5,13 +5,14 @@ author_profile: true
 
 ---
 
-“ Fully Funded PhD Opportunities in the USA – Fall/Winter 2025 ”
+**Fully Funded PhD Opportunities in the USA – Fall/Winter 2025**
 
 Dr. Sadegh Torabi is inviting highly motivated PhD applicants to join his research group at George Mason University for Fall/Winter 2025. His lab conducts pioneering research at the intersection of Cybersecurity and Applied AI, with a strong focus on AI-Driven Cyber Threat Detection & Mitigation in the context of IoT/OT and Electric Vehicle Charging Station (EVCS).
 
 ## Program Details
 * PhD in Information Technology (INFT)
 * Visit [Requirements>Concentrations>ISTC Concentration](https://catalog.gmu.edu/colleges-schools/engineering-computing/information-technology-phd/ target="_blank") 
+* Visit <a href="[www.squarespace.com](https://catalog.gmu.edu/colleges-schools/engineering-computing/information-technology-phd/)" target="_blank">Requirements>Concentrations>ISTC Concentration</a>
 * [Department of Information Sciences and Technology (IST)](https://ist.gmu.edu target="_blank")
 * College of Engineering and Computing, George Mason University
 * Location: Fairfax, VA, USA
