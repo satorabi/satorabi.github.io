@@ -11,9 +11,10 @@ Dr. Sadegh Torabi is inviting highly motivated PhD applicants to join his resear
 
 ## Program Details
 * PhD in Information Technology (INFT)
-* Visit [Requirements>Concentrations>ISTC Concentration](https://catalog.gmu.edu/colleges-schools/engineering-computing/information-technology-phd/ target="_blank") 
-* Visit <a href="[www.squarespace.com](https://catalog.gmu.edu/colleges-schools/engineering-computing/information-technology-phd/)" target="_blank">Requirements>Concentrations>ISTC Concentration</a>
-* [Department of Information Sciences and Technology (IST)](https://ist.gmu.edu target="_blank")
+<!-- * Visit [Requirements>Concentrations>ISTC Concentration](https://catalog.gmu.edu/colleges-schools/engineering-computing/information-technology-phd/ target="_blank")  -->
+* Visit <a href="https://catalog.gmu.edu/colleges-schools/engineering-computing/information-technology-phd/" target="_blank">Requirements>Concentrations>ISTC Concentration</a>
+<!-- * [Department of Information Sciences and Technology (IST)](https://ist.gmu.edu target="_blank") -->
+* <a href="https://ist.gmu.edu" target="_blank">Department of Information Sciences and Technology (IST)</a>
 * College of Engineering and Computing, George Mason University
 * Location: Fairfax, VA, USA
 
@@ -24,4 +25,6 @@ Dr. Sadegh Torabi is inviting highly motivated PhD applicants to join his resear
 * Supportive mentorship in a top-ranked research environment
 
 ## How to Apply
-Interested applicants must provide all the necessary information by completing the application request form: [Click Here to complete the Application Request Form](https://forms.office.com/r/6xAQtauH6N target="_blank")
+Interested applicants must provide all the necessary information by completing the application request form:
+<a href="https://forms.office.com/r/6xAQtauH6N" target="_blank">Click Here to complete the Application Request Form</a>
+ <!-- [Click Here to complete the Application Request Form](https://forms.office.com/r/6xAQtauH6N target="_blank") -->
