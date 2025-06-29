@@ -12,6 +12,9 @@ main:
   - title: "Publications"
     url: /pub-scholar/
 
+  - title: "Apply"
+    url: /apply/
+
   - title: "Contact"
     url: /contact/    
 
