@@ -15,7 +15,7 @@ My research centers on the critical intersection of applied AI, cybersecurity, a
  [View Publications and Google Scholar Profile](/pub-scholar/)
 
 ## Ongoing Research
-### Securing the EV Charging Ecosystem ([NSF Award #2431617](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2431617&HistoricalAwards=false))
+### Securing the EV Charging Ecosystem (<a href="https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2431617" target="_blank">NSF Award #2431617</a>)
 The EV charging ecosystem represents a cyber-physical infrastructure, which implements a collection of specialized software on the underlying EV Charging Stations (EVCS) to facilitate remote administrative (e.g., monitoring and logging) and user functionalities (e.g., locating EVCS, managing/scheduling sessions, and payments) through the implemented firmware/software on the EV charging equipment along with other Web/Mobile application interfaces. The primary intent of this research is to propose a framework for evaluating the security posture of the EV charging ecosystem against cyber-attacks through systematic analysis of the firmware/software components to detect vulnerabilities while assessing their severity, exposure, exploitability, and impact. I also aim at leveraging the security assessment and the identified vulnerabilities to propose practical and effective software patches that address the security issues while preventing future cyber-attacks. This will include communicating the knowledge (vulnerability/patch) with infected product vendors and developers prior to publication of results to ensure an effective and timely patch deployment and management.
 
 ### Adversarial AI/ML in IoT Malware Classification
