@@ -26,9 +26,10 @@ Dr. Sadegh Torabi is inviting highly motivated PhD applicants to join his resear
 
 ## How to Apply
 Interested applicants must provide all the necessary information by completing the application request form:
-<a href="https://forms.office.com/r/6xAQtauH6N" target="_blank">Click Here to complete the Application Request Form</a>.
-  <!-- [Click Here to complete the Application Request Form](https://forms.office.com/r/6xAQtauH6N target="_blank") -->
- <!-- Interested applicants can send a request to "Apply@AInCyber.com" and attach the following documents:
+<a href="https://forms.office.com/r/6xAQtauH6N" target="_blank">Click Here to complete the Application Request Form</a>
+
+<!-- [Click Here to complete the Application Request Form](https://forms.office.com/r/6xAQtauH6N target="_blank") -->
+<!-- Interested applicants can send a request to "Apply@AInCyber.com" and attach the following documents:
 * Copies of transcripts (e.g., BS/MS)
 * Recent CV 
 * Examples of published research
