@@ -5,9 +5,9 @@ author_profile: true
 
 ---
 
-**Fully Funded PhD Opportunities in the USA – Fall/Winter 2025**
+**Fully Funded PhD Opportunities in the USA (Limited Availability)**
 
-Dr. Sadegh Torabi is inviting highly motivated PhD applicants to join his research group at George Mason University for Fall/Winter 2025. His lab conducts pioneering research at the intersection of Cybersecurity and Applied AI, with a strong focus on AI-Driven Cyber Threat Detection & Mitigation in the context of IoT/OT and Electric Vehicle Charging Station (EVCS).
+Dr. Sadegh Torabi is inviting highly motivated PhD applicants to join his research group at George Mason University. His lab conducts pioneering research at the intersection of Cybersecurity and Applied AI, with a strong focus on AI-Driven Cyber Threat Detection & Mitigation in the context of IoT/OT and Electric Vehicle Charging Station (EVCS).
 
 ## Program Details
 * PhD in Information Technology (INFT)
@@ -27,4 +27,11 @@ Dr. Sadegh Torabi is inviting highly motivated PhD applicants to join his resear
 ## How to Apply
 Interested applicants must provide all the necessary information by completing the application request form:
 <a href="https://forms.office.com/r/6xAQtauH6N" target="_blank">Click Here to complete the Application Request Form</a>
+ 
  <!-- [Click Here to complete the Application Request Form](https://forms.office.com/r/6xAQtauH6N target="_blank") -->
+
+ <!-- Interested applicants can send a request to "Apply@AInCyber.com" and attach the following documents:
+* Copies of transcripts (e.g., BS/MS)
+* Recent CV 
+* Examples of published research
+Given that we receive a huge amount of applications every semester, we will only respond to selected candidates after reviewing the submitted documents.  -->
