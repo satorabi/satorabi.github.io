@@ -5,7 +5,7 @@ author_profile: true
 
 ---
 <!-- ## Google Scholar Profile (Sadegh Torabi) -->
-Check my [Google Scholar Profile (Sadegh Torabi)](https://scholar.google.com/citations?user=sHaylg0AAAAJ&hl=en){:target="_blank" rel="noopener"} for a complete list of publications.
+Check my <a href="https://scholar.google.com/citations?user=sHaylg0AAAAJ&hl=en" target="_blank">Google Scholar Profile (Sadegh Torabi)</a> for a complete list of publications.
 
 
 ## Select Publications

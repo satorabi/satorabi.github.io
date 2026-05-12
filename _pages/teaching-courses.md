@@ -6,6 +6,13 @@ author_profile: true
 ---
 I am currently serving as the course coordinator for the Database Fundamentals (IT214) course.
 Here is a list of courses that I have been teaching at the department of IST:
+* **[Fall 2026]**
+    * Applications of AI in Cybersecurity (Special Topics - IT499-001)
+    * Applied Cyber Threat Analysis (IT462-001) 
+* **[Summer 2026]**
+    * Database Fundamentals (IT214-DL1)
+* **[Spring 2026]**
+    * Applied Cyber Threat Analysis (IT462-001)
 * **[Fall 2025]**
     * Applied Cyber Threat Analysis (IT462-001)
     * Database Management Systems (AIT524-DL1)
