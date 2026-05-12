@@ -87,7 +87,7 @@ author:
   employer         : #"George Mason University"
   pubmed           : 
   email            : "storabi@gmu.edu"
-  googlescholar    : <a href="https://scholar.google.com/citations?user=sHaylg0AAAAJ&hl=en" target="_blank">Google Scholar Profile (Sadegh Torabi)</a> #"https://scholar.google.com/citations?user=sHaylg0AAAAJ&hl=en"
+  googlescholar    : # "https://scholar.google.com/citations?user=sHaylg0AAAAJ&hl=en"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
